@@ -5,6 +5,6 @@
 4) LinkedLists
 5) Stacks
 6) Queues
-7) Trees
-8) Tries
+7) Hashing
+8) Trees
 9) Graphs
